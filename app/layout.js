@@ -1,8 +1,8 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Url Shortener",
-  description: "Generate short url from long url",
+  title: "Dashly",
+  description: "Data Data Data",
 };
 
 export default function RootLayout({ children }) {
